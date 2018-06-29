@@ -5,8 +5,8 @@
 ### Here is available Sloutioon total part of SQL
 <hr>
 * #### You can see solution of all question of SQL part
-* #### Here is available tutorial link : [Click Here](https://www.w3schools.com/sql/)
-* #### If yoo want write online code : [Click Here](https://about.modeanalytics.com/)
+* #### Here is available tutorial link  [Click Here](https://www.w3schools.com/sql/)
+* #### If yoo want write online code  [Click Here](https://about.modeanalytics.com/)
 <hr>
 
 ### Type of SQL Databases
